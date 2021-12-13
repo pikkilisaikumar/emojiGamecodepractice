@@ -1,0 +1,11 @@
+.list-itemone {
+  background-color: white;
+  list-style-type: None;
+  margin: 15px;
+  width: 150px;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

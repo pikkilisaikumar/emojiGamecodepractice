@@ -1,0 +1,31 @@
+.navcontainerone {
+  background-color: #9796f0;
+  padding: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.scoreparagraph {
+  color: white;
+  font-family: 'Roboto';
+}
+.topscore {
+  color: white;
+  font-family: 'Roboto';
+  padding-left: 7px;
+}
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.emojigameheading {
+  font-family: 'Roboto';
+  color: white;
+  font-size: 20px;
+  padding-left: 6px;
+}
+.scorecontainerone {
+  display: flex;
+  align-items: center;
+}

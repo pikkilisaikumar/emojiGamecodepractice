@@ -1,0 +1,29 @@
+.containerwhole {
+  background-image: linear-gradient(#fbc7d4, #ffffff33);
+  height: 400px;
+  padding: 10px;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 50px;
+}
+.won-gameclass {
+  height: 170px;
+  width: 170px;
+}
+.containerone {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.bestscore {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 23px;
+}
+.youwonheading {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
